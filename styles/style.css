@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Moderustic:wght@300..800&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+.open-sans-normal {
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+/* nav style */
+.text-primary{
+    color: #0E0E0E;
+}
+nav{
+    color: #0E0E0E;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 24px 160px;
+    font-weight: bold;
+}
+/* banner style */
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 160px;
+}
+.seconday-bg{
+    background-color: #7ECAA7;
+    border-radius: 24px;
+}
+/* primary button */
+.btn-primary{
+    color: white;
+    background-color:#006A50 ;
+    border-radius: 8px;
+}
+.banner-content{
+ text-align: justify;
+ margin: 80px 50px 80px 50px;
+}
