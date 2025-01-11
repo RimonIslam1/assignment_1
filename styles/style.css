@@ -40,3 +40,44 @@ nav{
  text-align: justify;
  margin: 80px 50px 80px 50px;
 }
+/* pillars style */
+.pillars{
+    margin: 20px 160px ;
+    padding: 20px;
+}
+.content-box{
+    display: flex;
+    gap: 25px;
+}
+/* vision */
+.vision{
+    margin: 20px 160px ;
+    padding: 20px;
+}
+.box1{
+    background-color: #5490F5;
+    border-radius: 16px;
+}
+.box2{
+    background-color: #09A15C;
+    border-radius: 16px;
+}
+.box3{
+    background-color: #FFC239;
+    border-radius: 16px;
+}
+.box-con{
+    margin: 20px;
+}
+#one{
+    color: white;
+    background-color: #5490F5;
+}
+#two{
+    color: white;
+    background-color: #09A15C;
+}
+#three{
+    color: white;
+    background-color: #FFC239;
+}
