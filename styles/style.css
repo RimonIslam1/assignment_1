@@ -7,6 +7,9 @@
   font-variation-settings:
     "wdth" 100;
 }
+body{
+    background-color: #f8f0f0;
+}
 /* nav style */
 .text-primary{
     color: #0E0E0E;
@@ -44,10 +47,13 @@ nav{
 .pillars{
     margin: 20px 160px ;
     padding: 20px;
+    
 }
 .content-box{
     display: flex;
     gap: 25px;
+    background-color: #FFFFFF;
+    gap: 10pxpx;
 }
 /* vision */
 .vision{
